@@ -66,3 +66,4 @@ For starters click on this button
 
 ## Bot Owner
 *  [Falco Grice](https://telegram.dog/Official_Flying_Titan)
+* (me nub) (
