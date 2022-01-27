@@ -1,6 +1,7 @@
 {
-      "name": "Gabi Braun Robot",
-      "description": "An Anime themed Telegram group management bot.",
+      "name": "EnmuX1",
+      "description": "An Anime themed Telegram group management bot.
+      Sand have lot of best functions and commands add me to your group and I'll show my skills",
       "keywords": [
          "telegram",
          "anime",
@@ -8,7 +9,7 @@
          "manager",
          "Gabi"
       ],   
-  "logo":    "https://telegra.ph/file/a612794ea868bb4fbcc5e.jpg",
+  "logo":   "https://te.legra.ph/file/f0b9ddd996c2ee059c8c3.jpg",
  "repository": "https://github.com/Falco-Grice/GabiBraunRobot",
 
 "addons": [
