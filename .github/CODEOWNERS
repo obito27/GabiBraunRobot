@@ -2,8 +2,8 @@
 # Default owners for everything in the repo, unless a later match takes precedence
 
 # Phoenix owns the files under blacklist thingies
-/GabiBraunRobot/modules/blacklistusers.py @rsktg
-/GabiBraunRobot/modules/sql/blacklistusers_sql.py @rsktg
+/GabiBraunRobot/modules/blacklistusers.py @X_Hate
+/GabiBraunRobot/modules/sql/blacklistusers_sql.py @X_Hate
 #pep8-ing the code doesn't change maker
-/GabiBraunRobot/modules/paste.py @DragSama
-/tg_bit/modules/speed_test.py @DragSama
+/GabiBraunRobot/modules/paste.py @UppermoonX1
+/tg_bit/modules/speed_test.py @UppermoonX1
